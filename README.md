@@ -2,4 +2,4 @@ first_repo
 
 branch1
 
-branch2 test2
+branch2
